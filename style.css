@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.felxible{
+    display: flex;
+}
+.skip{
+    background: -webkit-linear-gradient(orange,tomato);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.gray-color{
+    color: #575757;
+}
+.paragraph-color{
+    color: #828282;
+}
+.order-food{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 20px 30px;
+    border-radius: 100px;
+    color: white;
+    
+}
+#first-heading{
+    padding-left: 5%;
+    padding-top: 5%;
+}
+h1{
+    font-size: 310%;
+    font-family:Arial, Helvetica, sans-serif
+
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+    
+}
+.half-width img{
+    width: 110%;
+}
