@@ -1,8 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 .felxible{
     display: flex;
+    margin-bottom: 100px;
 }
 .skip{
     background: -webkit-linear-gradient(orange,tomato);
@@ -16,7 +18,7 @@ body{
     color: #828282;
     padding-right: 15%;
 }
-.order-food{
+.button{
     text-decoration: none;
     background-image: linear-gradient(orange,tomato);
     padding: 20px 40px;
@@ -41,5 +43,20 @@ h1{
     
 }
 .half-width img{
-    width: 110%;
+    width: 100%;
+}
+.female-image img{
+    width: 100%;
+    margin-top: -25%;
+}
+.text-about-me{
+    position: absolute;
+  top: 140%;
+  left: 50%;
+  text-align: justify;
+  padding-right: 10%;
+  
+}
+.contact-me-button{
+    text-decoration: none;
 }
